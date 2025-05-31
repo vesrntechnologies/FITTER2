@@ -2,61 +2,61 @@
 let questions = [
     {
     numb: 1,
-    question: "Which class of fire is caused by fire wood, paper or cloth?",
+    question: "What is the meaning of SEIRI in 5S techniques?",
     //immg:"img1",
-    answer: "Class A fire",
+    answer: "Removes unnecessary items",
     options: [
-      "Class A fire",
-      "Class B fire",
-      "Class C fire",
-      "Class D fire"
+      "Identifies storage",
+      "Clean and inspects",
+      "Operating procedures",
+      "Removes unnecessary items"
     ]
   },
    {
     numb: 2,
-    question: "What is the bin color code for waste paper segretation?",
+    question: "What is the use of try square shown in the figure?",
     immg:"img2",
-    answer: "Blue",
+    answer: "To check the squareness",
     options: [
-      "Red",
-      "Blue",
-      "Black", 
-      "Green"
+      "To check the flatness",
+      "To check the squareness",
+      "To mark lines at 90o", 
+      "To set the workpiece at right angle"
     ]
   },
     {
     numb: 3,
-    question: "What does A denote in the ABC of the first aid",
+    question: "What is the use of groove provided on the either side of a vee-block?",
     
-    answer: "Airway",
+    answer: "Holding clamps",
     options: [
-      "Airway",
-      "Attention",
-      "Arresting",
-      "Atomsphere"
+      "For appearance",
+      "For reducing the weight",
+      "To reduce bearing surface",
+      "Holding clamps"
     ]
   },
     {
     numb: 4,
-    question: "What is the name of the part marked as X shown in the figure?",
+    question: "Which metal property can be drawn into the wire without any rupture?",
    // immg:"img4",
-    answer: "Tang",
+    answer: "Ductility",
     options: [
-      "Heel",
-      "Tang",
-      "Ferrule",
-      "File length"
+      "Ductility",
+      "Tenacity",
+      "Elasticity",
+      "Malleability"
     ]
   },
     {
     numb: 5,
-    question: "Which chisel is used for squaring materials at the corners and joints?",
-    answer: "Diamond point chisel",
+    question: "Why slots are provided in the slotted angle plate?",
+    answer: "For job clamping",
     options: [
-      "Flat chisel",
-      "Diamond point chisel",
-      "Cross cut chisel",
-      "Half round nose chisels"
+      "For job clamping",
+      "For easy handling",
+      "For reducing the weight",
+      "For better appearance"
     ]
   },
   {

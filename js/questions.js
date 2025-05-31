@@ -15,6 +15,7 @@ let questions = [
    {
     numb: 2,
     question: "What is the bin color code for waste paper segretation?",
+    immg:"img2",
     answer: "Blue",
     options: [
       "Red",
@@ -38,7 +39,7 @@ let questions = [
     {
     numb: 4,
     question: "What is the name of the part marked as X shown in the figure?",
-    immg:"img4",
+   // immg:"img4",
     answer: "Tang",
     options: [
       "Heel",
@@ -61,7 +62,7 @@ let questions = [
   {
     numb: 6,
     question: "What is the name of the part of a hammer marked as X shown in the figure?",
-    immg:"img6",
+    //immg:"img6",
     answer: "Cheek",
     options: [
       "Face",
@@ -73,6 +74,7 @@ let questions = [
   {
     numb: 7,
     question: "Which file has parallel edges throughout the length?",
+      immg:"img7",
     answer: "Hand file",
     options: [
       "Hand file",
@@ -96,7 +98,7 @@ let questions = [
       {
     numb: 9,
     question: "What is the name of the angualr measuring instrument shown in the figure?",
-    immg:"img9",    
+   // immg:"img9",    
     answer: "Universal bevel guage",
     options: [
       "Bevel gauge",
@@ -120,7 +122,7 @@ let questions = [
      {
     numb: 11,
     question: "What is the name of the vice shown in the figure?",
-    immg:"img11",
+   // immg:"img11",
     answer: "Pin vice",
     options: [
       "Pin vice",
@@ -156,7 +158,7 @@ let questions = [
 {
     numb: 14,
     question: "What is the name of the part marked as X shown in the figure",
-    immg:"img14",
+  //  immg:"img14",
     answer: "Snug",
     options: [
       "Nut",
@@ -192,7 +194,7 @@ let questions = [
     {
     numb: 17,
     question: "What is the name of the angle between the axis of chisel and the job surface while chipping?",
-    
+      immg:"img17",
     answer: "Angle of inclination",
     options: [
       "Rake Angle",
@@ -228,7 +230,7 @@ let questions = [
         {
     numb: 20,
     question: "What is the first step o avoid accident a work place?",
-    //immg:"img20",
+    immg:"img20",
     answer:"Observing safety precautions",
     options: [
       "Wearing safetyh equipment",
@@ -265,7 +267,7 @@ let questions = [
      {
     numb: 23,
     question: "What is the name of the vice shown in the figure?",
-    immg:"img23",
+   // immg:"img23",
     answer:"Hand Vice",
     options: [
       "pin vice",
@@ -277,7 +279,7 @@ let questions = [
      {
     numb: 24,
     question: "Which angle is represented by the symbol γ on the cutting chisel shown in the figure?",
-    immg:"img24",
+   // immg:"img24",
     answer: "Rake angle",
     options: [
       "Rake angle",
@@ -313,7 +315,7 @@ let questions = [
      {
     numb: 27,
     question: "Where will the weight of the hammer be stamped?",
-    
+      immg:"img27",
     answer: "cheek",
     options: [
       "Face",
@@ -325,7 +327,7 @@ let questions = [
           {
     numb: 28,
     question: "What is the name of the chisel shown in the figure?",
-    immg:"img28",
+    //immg:"img28",
     answer: "Web chisel",
     options: [
       "Flat chisel",
@@ -374,7 +376,7 @@ let questions = [
      {
     numb: 32,
     question: "Which ensures personal safety?",
-    //immg:"img45",
+    immg:"img32",
     answer: "Concentrating on your work",
     options: [
       "Keeping the machine clean",
@@ -386,7 +388,7 @@ let questions = [
      {
     numb: 33,
     question: "How do you stop bleeding in an injured person?",
-    //immg:"img46",
+    immg:"img33",
     answer: "Apply pressure over the wound",
     options: [
       "Tie bandage over the wound",
@@ -398,6 +400,7 @@ let questions = [
      {
     numb: 34,
     question: "Which period is referred to as the golden hours for an injured person?",
+    immg:"img34",
     answer: "First 30mins after incident",
     options: [
       "First 30mins after incident",
@@ -422,7 +425,7 @@ let questions = [
     {
     numb: 36,
     question: "What is the name of the part marked as x shown in the figure?",
-    immg:"img36",
+   // immg:"img36",
     answer: "Fulcrum",
     options: [
       "Leg",
@@ -446,7 +449,7 @@ let questions = [
       {
     numb: 38,
     question: "Which is a soft skill?",
-   // immg:"img36",
+   immg:"img38",
     answer: "Team work",
     options: [
       "copy writing",
@@ -542,7 +545,7 @@ let questions = [
          {
     numb: 46,
     question: "Identify the conventional symbol of material?",
-    immg:"img46",
+   // immg:"img46",
     answer: "wood",
     options: [
       "lead",
@@ -566,7 +569,7 @@ let questions = [
      {
     numb: 48,
     question: "Identify the name of set square?",
-    immg:"img48",
+   // immg:"img48",
     answer: "45o set square",
     options: [
       "15o set square",
@@ -590,7 +593,7 @@ let questions = [
       {
     numb: 50,
     question: "a=5, b=-2 then a+b=?",
-    
+      immg:"img50",
     answer: "3",
     options: [
       "3",

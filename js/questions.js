@@ -78,7 +78,7 @@ let questions = [
     answer: "Adjustable parallel block",
     options: [
       "Solid parallel block",
-      "Tenon parallel block,
+      "Tenon parallel block",
       "Angular parallel block",
       "Adjustable parallel block"
     ]

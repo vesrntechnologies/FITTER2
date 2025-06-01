@@ -377,205 +377,205 @@ let questions = [
     numb: 32,
     question: "What is the name of the part marked as X shown in the figure?",
     immg:"img32",
-    answer: "Concentrating on your work",
+    answer: "Drill chuck",
     options: [
-      "Keeping the machine clean",
-      "Concentrating on your work",
-      "Keeping the gang way and floor clean",
-     "Keeping the tools at their proper place"
+      "Drill chuck",
+      "Feed handle",
+      "Driving motor",
+     "Depth gaguge and stop"
     ]
   },
      {
     numb: 33,
-    question: "How do you stop bleeding in an injured person?",
+    question: "What is the name of the part marked as X shown in the figure?",
     immg:"img33",
-    answer: "Apply pressure over the wound",
+    answer: "Fine adjusting slide",
     options: [
-      "Tie bandage over the wound",
-      "Apply ointment over the wound",
-      "Apply tincutre over the wound",
-     "Apply pressure over the wound"
+      "Beam",
+      "Main scale",
+      "Fine adjusting nut",
+     "Fine adjusting slide"
     ]
   },
      {
     numb: 34,
-    question: "Which period is referred to as the golden hours for an injured person?",
+    question: "What is the name of the drilling machine shown in the figure?",
     immg:"img34",
-    answer: "First 30mins after incident",
+    answer: "Pillar drilling machine",
     options: [
-      "First 30mins after incident",
-      "First 30 mins",
-      "First 45mins of admission",
-     "First 60 mins after treatment"
+      "Pillar drilling machine",
+      "Gang drilling machine",
+      "Bench drilling machine",
+     "Radial drilling machine"
     ]
   }
     ,
      {
     numb: 35,
-    question: "Which material is used to make bench vice?",
+    question: "How can a wide range of depth be measured using a depth micrometer?",
     
     answer: "cast iron",
     options: [
-      "Tool steel",
-      "high carbon steel",
-      "medium carbon steel",
-     "cast iron"
+      "lengthly sleeve",
+      "lengthly spindle",
+      "adjustable base",
+     "Use of extension rods"
     ]
   },
     {
     numb: 36,
-    question: "What is the name of the part marked as x shown in the figure?",
+    question: "Which part of the drilling machine is used to achieve set a different speed?",
    // immg:"img36",
-    answer: "Fulcrum",
+    answer: "Stepped pulley",
     options: [
-      "Leg",
-      "Peg",
-      "Washer",
-     "Fulcrum"
+      "Flat pulley",
+      "Jockey pulley",
+      "Stepped pulley",
+     "Fast and loose pulley"
     ]
   },
       {
     numb: 37,
-    question: "Which caliper has one leg with an adjustable divider point and the other leg bent?",
+    question: "Identify the type of drilling machine whose spindle head is moved towards or away from the column.",
    // immg:"img36",
-    answer: "Jenni Caliper",
+    answer: "Radial drilling machine",
     options: [
-      "Jenni Caliper",
-      "Inside caliper",
-      "Outside caliper",
-     "Spring joint caliper"
+      "Pillar drilling machine",
+      "Gang drilling machine",
+      "Radial drilling machine",
+     "Sensitive bench drilling machine"
     ]
   },
       {
     numb: 38,
-    question: "Which is a soft skill?",
+    question: "What is the reading of vernier caliper with inch graduations shown in the figure?",
    immg:"img38",
-    answer: "Team work",
+    answer: "1.459",
     options: [
-      "copy writing",
-      "marketing",
-      "Team work",
-     "planning"
+      "1.068",
+      "1.459",
+      "1.418",
+     "1.409"
     ]
   },
         {
     numb: 39,
-    question: "What are the two classifications of system of units?",
+    question: "What is termed as the quantity of matter contained in a body?",
    // immg:"img36",
-    answer: "Fundamental and derived",
+    answer: "Mass",
     options: [
-      "British and Metric",
-      "Gravitational and non-gravitational",
-      "Fundamental and derived",
-     "Metric and International"
+      "Density",
+      "Volume",
+      "Mass",
+     "Specific gravity"
     ]
   },
      {
     numb: 40,
-    question: "What are the fundamental units?",
+    question: "What is called mass per unit volume of a substances?",
    // immg:"img36",
-    answer: "Length, Mass, Time",
+    answer: "Density",
     options: [
-      "Length, Mass, Volume",
-      "Length, Mass, Time",
-      "Length, Mass, Area",
-     "Length, Pressure, Volume"
+      "Mass",
+      "Weight",
+      "Density",
+     "Volume"
     ]
   },
       {
     numb: 41,
-    question: "What denotes letter M in MKS system?",
+    question: "What is the ratio of power output to power input?",
    // immg:"img36",
-    answer: "Meter",
+    answer: "Efficiency",
     options: [
-      "Mile",
-      "Meter",
-      "Millimeter",
-     "Micron"
+      "Work",
+      "Energy",
+      "Efficiency",
+     "Acceleration"
     ]
   },
      {
     numb: 42,
-    question: "How many millimetres are ther in 1 inch?",
+    question: "How many watts for 1 horse power in British System",
    // immg:"img36",
-    answer: "25.4mm",
+    answer: "746 watts",
     options: [
-      "2.54mm",
-      "25.4mm",
-      "24.5mm",
-     "2.45mm"
+      "726 watts",
+      "736 watts",
+      "746 watts",
+     "756 watts"
     ]
   },
       {
     numb: 43,
-    question: "What is the square root of 529?",
+    question: "What is the S.I unit of heat?",
    // immg:"img36",
-    answer: "23",
+    answer: "Joule",
     options: [
-      "13",
-      "23",
-      "33",
-     "43"
+      "Calorie",
+      "Joule",
+      "Centigrade heat unit",
+     "British thermal unit"
     ]
   },
     {
     numb: 44,
-    question: "Convert 0.456 decimal fraction into percentage?",
+    question: "What is known for the temperature at which any solid melts into liquid?",
    // immg:"img36",
-    answer: "45.6%",
+    answer: "Melting point",
     options: [
-      "45.6%",
-      "4.56%",
-      "0.456%",
-     "0.0456%"
+      "Boiling point",
+      "Melting point",
+      "Latent heat of fusion",
+     "Latent heat of vaporisation"
     ]
   },
      {
     numb: 45,
-    question: "Convert 0.456 decimal fraction into percentage?",
+    question: "Identify the conventional symbol of material?",
     immg:"img45",
-    answer: "water",
+    answer: "Steel",
     options: [
-      "water",
-      "concrete",
-      "asbestos",
-     "glass"
+      "Lead",
+      "Steel",
+      "Glass",
+     "Porcelain"
     ]
   },
          {
     numb: 46,
     question: "Identify the conventional symbol of material?",
-   // immg:"img46",
-    answer: "wood",
+     immg:"img46",
+    answer: "glass",
     options: [
       "lead",
       "glass",
       "wood",
-     "paper"
+     "steel"
     ]
   },
      {
     numb: 47,
-    question: "Identify the name of instrument?",
+    question: "Identify the conventional symbol material?",
     immg:"img47",
-    answer: "protractor",
+    answer: "concrete",
     options: [
-      "set square",
-      "protractor",
-      "french curve",
-     "T square"
+      "steel",
+      "wood",
+      "glass",
+     "concrete"
     ]
   },
      {
     numb: 48,
-    question: "Identify the name of set square?",
+    question: "What is the trimmed size of A4 sheet?",
    // immg:"img48",
-    answer: "45o set square",
+    answer: "210 x 297",
     options: [
-      "15o set square",
-      "60o set square",
-      "30o set square",
-     "45o set square"
+      "841 x 1189",
+      "594 x 841",
+      "210 x 297",
+     "148 x 210"
     ]
   },
      {
@@ -592,14 +592,14 @@ let questions = [
   },
       {
     numb: 50,
-    question: "a=5, b=-2 then a+b=?",
+    question: "Identify the name of prism?",
       immg:"img50",
-    answer: "3",
+    answer: "Hexagonal prism",
     options: [
-      "3",
-      "-3",
-      "2",
-     "7"
+      "Square prism",
+      "Pentagonal prism",
+      "Triangular prism",
+     "Hexagonal prism"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question

@@ -61,321 +61,321 @@ let questions = [
   },
   {
     numb: 6,
-    question: "What is the name of the part of a hammer marked as X shown in the figure?",
+    question: "Which metal property can resist the effect of tensile forces without any rupture?",
     //immg:"img6",
-    answer: "Cheek",
+    answer: "Tenacity",
     options: [
-      "Face",
-      "Pein",
-      "Cheek",
-      "Eye hole"
+      "Ductility",
+      "Tenacity",
+      "Elasticity",
+      "Malleability"
     ]
   },
   {
     numb: 7,
-    question: "Which file has parallel edges throughout the length?",
+    question: "What is the name of the parallel block shown in the figure?",
       immg:"img7",
-    answer: "Hand file",
+    answer: "Adjustable parallel block",
     options: [
-      "Hand file",
-      "Bastard file",
-      "Rasp cut file",
-      "Single cut file"
+      "Solid parallel block",
+      "Tenon parallel block,
+      "Angular parallel block",
+      "Adjustable parallel block"
     ]
   },
   {
     numb: 8,
-    question: "Which caliper is used for finding the centre of the round bar?",
+    question: "Which marking media is applied in rough forgings and castings?",
     //immg:"img8",
-    answer: "Jenny caliper",
+    answer: "White wash",
     options: [
-      "Jenny caliper",
-      "Inside caliper",
-      "Outside caliper",
-      "Firm joint caliper"
+      "White wash",
+      "Prussian blue",
+      "Copper Sulphate",
+      "Cellulose lacquer"
     ]
   },
       {
     numb: 9,
-    question: "What is the name of the angualr measuring instrument shown in the figure?",
+    question: "Which metal cutting saw is used for cutting different profiles?",
    // immg:"img9",    
-    answer: "Universal bevel guage",
+    answer: "Contour band saw",
     options: [
-      "Bevel gauge",
-      "Bevel protractor",
-      "Universal bevel guage",
-      "Universal surface gauge"
+      "Power saw",
+      "Circular saw",
+      "Contour band saw",
+      "Horizontal band saw"
     ]
   },
     {
     numb: 10,
-    question: "Which chisel is used for cutting oil grooves?",
+    question: "Which metal property permits no permanent distortion on before breaking?",
     
-    answer: "Half round nose chisel",
+    answer: "Brittleness",
     options: [
-      "Flat chisel",
-      "Web chisel",
-      "Half round nose chisel",
-      "Diamond point chisel"
+      "Tenacity",
+      "Hardness",
+      "Brittleness",
+      "Toughness"
     ]
   },
      {
     numb: 11,
-    question: "What is the name of the vice shown in the figure?",
+    question: "Why surface plates are made of up of stress-relieved, good quality cast iron?",
    // immg:"img11",
-    answer: "Pin vice",
+    answer: "To prevent distortion",
     options: [
-      "Pin vice",
-      "Pipe vice",
-      "Hand vice",
-      "Machine vice"
+      "To prevent corrosion",
+      "To prevent breaking",
+      "To prevent distortion",
+      "To prevent thermal expansion"
     ]
   },
      {
     numb: 12,
-    question: "What is the accuracy of protractor head in combination set?",
+    question: "What is the main advantage of adjustable parallel block?",
     
-    answer: "1 Degree",
+    answer: "To set different height",
     options: [
-      "1 Degree",
-      "5 Degree",
-      "5 Inches ",
-      "5 Feet"
+      "To set different angle",
+      "To set different depth",
+      "To set different length",
+      "To set different height"
     ]
   },
  {
     numb: 13,
-    question: "Which punch is used for witness marks?",
+    question: "Which part of an universal surface gauge is used to set scriber exactly at the required position?",
     
-    answer: "Dot punch",
+    answer: "Fine adjustment screw",
     options: [
-      "Dot punch",
-      "Pin punch",
-      "Bell punch",
-      "Centre punch"
+      "Snug",
+      "Guide Pin",
+      "Rocker arm",
+      "Fine adjustment screw"
     ]
   },
 {
     numb: 14,
-    question: "What is the name of the part marked as X shown in the figure",
+    question: "Which metal cutting saw is used to cut large cross section area? ",
   //  immg:"img14",
-    answer: "Snug",
+    answer: "Circular saw",
     options: [
-      "Nut",
-      "Sung",
-      "Spindle",
-      "Scriber"
+      "Power saw",
+      "Contour saw",
+      "Circular saw",
+      "Horizontal band saw"
     ]
   },
     {
     numb: 15,
-    question: "Which hand tool is used to finish the resharpened divider point?",
+    question: "Which metal property can with stand shock or impact?",
     
-    answer: "Oil stone",
+    answer: "Toughness",
     options: [
-      "file",
-      "Grinder",
-      "scraper",
-     "Oil stone"
+      "Tenacity",
+      "Hardness",
+      "Brittleness",
+     "Toughness"
     ]
   },
     {
     numb: 16,
-    question: "Which vice is used to hold hoolow cylindrical jobs?",
+    question: "Why are ribs provided in the angle plate?",
      //immg:"img16",
-    answer: "Pip Vice",
+    answer: "Prevents distortion",
     options: [
-      "Pin Vice",
-      "Pipe Vice",
-      "Hand Vice",
-      "Bench Vice"
+      "Provide flatness",
+      "Prevents distortion",
+      "Provides squareness",
+      "Support the machined surface"
     ]
   },
     {
     numb: 17,
-    question: "What is the name of the angle between the axis of chisel and the job surface while chipping?",
+    question: "Which type of  V block is shown in the figure?",
       immg:"img17",
-    answer: "Angle of inclination",
+    answer: "Double level single groove",
     options: [
-      "Rake Angle",
-      "Point Angle",
-      "Incineration",
-      "Angle of inclination"
+      "Single level single groove",
+      "Single level double groove",
+      "Double level single groove",
+      "Double level double groove"
     ]
   },
      {
     numb: 18,
-    question: "Which part of the bevel protractor comes in contact with the inclined surface while measuring?",
+    question: "Which part of the universal surface gauge holds the scriber??",
     
-    answer:"Blade",
+    answer:"Snug",
     options: [
-      "Dial",
-      "Disc",
-      "Blade",
-      "Stock"
+      "Snug",
+      "Guide Pin",
+      "Rocker arm",
+      "Fine adjustment screw"
     ]
   },
        {
     numb: 19,
-    question: "Which is an immediate life saving procedure?",
+    question: "Which metal property is beneficial for melting?",
     
-    answer:"First Aid",
+    answer:"Fusibility",
     options: [
-      "First Aid",
-      "Call a doctor",
-      "Call an ambulance",
-      "Medical treatment"
+      "Fusibility",
+      "Specific gravity",
+      "Conductivity",
+      "Structure"
     ]
   },
         {
     numb: 20,
-    question: "What is the first step o avoid accident a work place?",
+    question: "What is the name of the metal-cutting saws shown in the figure?",
     immg:"img20",
-    answer:"Observing safety precautions",
+    answer:"Circular saw",
     options: [
-      "Wearing safetyh equipment",
-      "Doing things in ones own way",
-      "Observing safety precautions",
-      "Doing things with a higly skilled working practice"
+      "Power saw",
+      "Horizontal band - saw",
+      "Circular saw",
+      "Contour saw"
     ]
   },  
              {
     numb: 21,
-    question: "Which process breaks down the materials into organic compounds that are used as manure?",
+    question: "Which material is used to manufacture Grade A V blocks?",
     
-    answer:"Composting",
+    answer:"High quality steel",
     options: [
-      "Land fills",
-      "Recycling",
-      "Composting",
-      "Burning waste material"
+      "Tool steel",
+      "Carbon steel",
+      "High quality steel",
+      "Closely grained cast iron"
     ]
   },
                  
         {
     numb: 22,
-    question: "Which marking media is poisonous?",
+    question: "Which metal is a good conductor of heat and electricity?",
     //immg:"img22",
-    answer:"Copper Sulphate",
+    answer:"Copper",
     options: [
-      "White wash",
-      "Prsussian blue",
-      "Copper Sulphate",
-      "Cellulose lacquer"
+      "Cast iron",
+      "Mild steel",
+      "Copper",
+      "Wrought iron"
     ]
   },  
      {
     numb: 23,
-    question: "What is the name of the vice shown in the figure?",
+    question: "What is the specific gravity for aluminium?",
    // immg:"img23",
-    answer:"Hand Vice",
+    answer:"2.6kg/cm3",
     options: [
-      "pin vice",
-      "pipe vice",
-      "Hand Vice",
-      "Quick relasing vice"
+      "9kg/cm3",
+      "2.8kg/cm3",
+      "2.6kg/cm3",
+      "8.5kg/cm3"
     ]
   }, 
      {
     numb: 24,
-    question: "Which angle is represented by the symbol γ on the cutting chisel shown in the figure?",
+    question: "Which mechanical property of metal has the ability to withstand wear and abrasion?",
    // immg:"img24",
-    answer: "Rake angle",
+    answer: "Hardness",
     options: [
-      "Rake angle",
-      "Wedge angle",
-      "Cutting angle",
-     "Clearance angle"
+      "Toughness",
+      "Hardness",
+      "Brittleness",
+     "Malleability"
     ]
   },
   {
     numb: 25,
-    question: "Which type of the file is used to make the job closer to the finishing size?",
+    question: "Which mechanical property of metal extends in all directions without rupturing during hammering?",
     
-    answer: "second cut file",
+    answer: "Malleability",
     options: [
-      "single cut file",
-      "curved cut file",
-      "second cut file",
-     "double cut file"
+      "Malleability",
+      "Ductility",
+      "Fusibility",
+     "Elasticity"
     ]
   },        
                {
     numb: 26,
-    question: "What is the name of the file shown in the figure?",
+    question: "Which is used for locating the holes in the assembly shown in the figure?",
     immg:"img26",
-    answer:"Riffler file",
+    answer:"Dowel",
     options: [
-      "Barrot file",
-      "Riffler file",
-      "Crossing file",
-      "Mill saw file"
+      "Dowel",
+      "Screw",
+      "Bolt",
+      "Nut"
     ]
   }, 
      {
     numb: 27,
-    question: "Where will the weight of the hammer be stamped?",
+    question: "What is the reading of the vernier bevel protractor shown in the figure?",
       immg:"img27",
-    answer: "cheek",
+    answer: "41o 50min",
     options: [
-      "Face",
-      "Pein",
-      "cheek",
-     "Eye hole"
+      "18o 50min",
+      "41o 50min",
+      "50o 50min",
+     "58o 50min"
     ]
   },
           {
     numb: 28,
-    question: "What is the name of the chisel shown in the figure?",
+    question: "What type of operation is carried out in a gang drilling machine?",
     //immg:"img28",
-    answer: "Web chisel",
+    answer: "Successive operation of drilling",
     options: [
-      "Flat chisel",
-      "Web chisel",
-      "Cross cut chisel",
-     "Diamond point chisel"
+      "Idle operation",
+      "Repeated operation of drilling",
+      "Continuous milling operation",
+     "Successive operation of drilling"
     ]
   },
 
       {
     numb: 29,
-    question: "What is the accuracy of Vernier bevel protractor",
+    question: "Which is an integral part of the stock in vernier bevel protractor? ",
     
-    answer: "5min",
+    answer: "Dial",
     options: [
-      "1degree",
-      "5degree",
-      "5min",
-     "5sec"
+      "Disc",
+      "Dial",
+      "Blade",
+     "Main scale"
     ]
   },
       {
     numb: 30,
-    question: "What is the name of the file shown in the figure?",
+    question: "What is the name of the part marked as X shown in the figure?",
     immg:"img30",
-    answer: "Rotary file",
+    answer: "Anvil",
     options: [
-      "Rotary file",
-      "Tinkers file",
-      "Barrette file",
-     "Crossing file"
+      "Anvil",
+      "Thimble",
+      "Spindle",
+     "Spindle lock"
     ]
   },
      {
     numb: 31,
-    question: "What is the advantage of waste disposal?",
+    question: "What is the accuracy of a metric outside micrometer?",
     //immg:"img36",
-    answer: "Ensures workshop is neat and tidy",
+    answer: "0.01 mm",
     options: [
-      "Uses lot of energy and resources",
-      "Increases adverse impact on environment",
-      "Ensures workshop is neat and tidy",
-     "Reduces economic efficiency"
+      "0.01 mm",
+      "0.001 mm",
+      "0.002 mm",
+     "0.02 mm"
     ]
   },
      {
     numb: 32,
-    question: "Which ensures personal safety?",
+    question: "What is the name of the part marked as X shown in the figure?",
     immg:"img32",
     answer: "Concentrating on your work",
     options: [

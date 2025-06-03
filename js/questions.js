@@ -119,7 +119,127 @@ let questions = [
       "Toughness"
     ]
   },
-     
+     {
+    numb: 11,
+    question: "Why surface plates are made of up of stress-relieved, good quality cast iron?",
+   // immg:"img11",
+    answer: "To prevent distortion",
+    options: [
+      "To prevent corrosion",
+      "To prevent breaking",
+      "To prevent distortion",
+      "To prevent thermal expansion"
+    ]
+  },
+     {
+    numb: 12,
+    question: "What is the main advantage of adjustable parallel block?",
+    
+    answer: "To set different height",
+    options: [
+      "To set different angle",
+      "To set different depth",
+      "To set different length",
+      "To set different height"
+    ]
+  },
+ {
+    numb: 13,
+    question: "Which part of an universal surface gauge is used to set scriber exactly at the required position?",
+    
+    answer: "Fine adjustment screw",
+    options: [
+      "Snug",
+      "Guide Pin",
+      "Rocker arm",
+      "Fine adjustment screw"
+    ]
+  },
+{
+    numb: 14,
+    question: "Which metal cutting saw is used to cut large cross section area? ",
+  //  immg:"img14",
+    answer: "Circular saw",
+    options: [
+      "Power saw",
+      "Contour saw",
+      "Circular saw",
+      "Horizontal band saw"
+    ]
+  },
+    {
+    numb: 15,
+    question: "Which metal property can with stand shock or impact?",
+    
+    answer: "Toughness",
+    options: [
+      "Tenacity",
+      "Hardness",
+      "Brittleness",
+     "Toughness"
+    ]
+  },
+    {
+    numb: 16,
+    question: "Why are ribs provided in the angle plate?",
+     //immg:"img16",
+    answer: "Prevents distortion",
+    options: [
+      "Provide flatness",
+      "Prevents distortion",
+      "Provides squareness",
+      "Support the machined surface"
+    ]
+  },
+    {
+    numb: 17,
+    question: "Which type of  V block is shown in the figure?",
+      immg:"img17",
+    answer: "Double level single groove",
+    options: [
+      "Single level single groove",
+      "Single level double groove",
+      "Double level single groove",
+      "Double level double groove"
+    ]
+  },
+     {
+    numb: 18,
+    question: "Which part of the universal surface gauge holds the scriber?",
+    
+    answer:"Snug",
+    options: [
+      "Snug",
+      "Guide Pin",
+      "Rocker arm",
+      "Fine adjustment screw"
+    ]
+  },
+       {
+    numb: 19,
+    question: "Which metal property is beneficial for melting?",
+    
+    answer:"Fusibility",
+    options: [
+      "Fusibility",
+      "Specific gravity",
+      "Conductivity",
+      "Structure"
+    ]
+  },
+        {
+    numb: 20,
+    question: "What is the name of the metal-cutting saws shown in the figure?",
+    immg:"img20",
+    answer:"Circular saw",
+    options: [
+      "Power saw",
+      "Horizontal band - saw",
+      "Circular saw",
+      "Contour saw"
+    ]
+  },  
+
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
